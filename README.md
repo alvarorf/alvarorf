@@ -1,4 +1,7 @@
 ### Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=alvarorf)](https://github.com/alvarorf/github-profile-trophy)
+
+[![alvarorf's github stats](https://github-readme-stats.vercel.app/api?username=alvarorf)](https://github.com/alvarorf/github-readme-stats)
 
 <!--
 **alvarorf/alvarorf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
